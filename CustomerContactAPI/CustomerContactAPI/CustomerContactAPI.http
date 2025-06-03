@@ -1,0 +1,6 @@
+@CustomerContactAPI_HostAddress = http://localhost:5245
+
+GET {{CustomerContactAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
